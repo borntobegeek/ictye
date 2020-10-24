@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ictye/static/css/main.6c51ed5a.chunk.css",
+    "main.js": "/ictye/static/js/main.6ee2e52f.chunk.js",
+    "main.js.map": "/ictye/static/js/main.6ee2e52f.chunk.js.map",
+    "runtime-main.js": "/ictye/static/js/runtime-main.3cb32d32.js",
+    "runtime-main.js.map": "/ictye/static/js/runtime-main.3cb32d32.js.map",
+    "static/js/2.f5b1fe55.chunk.js": "/ictye/static/js/2.f5b1fe55.chunk.js",
+    "static/js/2.f5b1fe55.chunk.js.map": "/ictye/static/js/2.f5b1fe55.chunk.js.map",
+    "index.html": "/ictye/index.html",
+    "precache-manifest.e1efb9ddd91cd460111ca3b0c39bc2f1.js": "/ictye/precache-manifest.e1efb9ddd91cd460111ca3b0c39bc2f1.js",
+    "service-worker.js": "/ictye/service-worker.js",
+    "static/css/main.6c51ed5a.chunk.css.map": "/ictye/static/css/main.6c51ed5a.chunk.css.map",
+    "static/js/2.f5b1fe55.chunk.js.LICENSE.txt": "/ictye/static/js/2.f5b1fe55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb32d32.js",
+    "static/js/2.f5b1fe55.chunk.js",
+    "static/css/main.6c51ed5a.chunk.css",
+    "static/js/main.6ee2e52f.chunk.js"
+  ]
+}
