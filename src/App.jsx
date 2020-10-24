@@ -25,7 +25,6 @@ class App extends Component{
     return (
       <div className="App">
         <header className="App-header">
-          
         </header>
         <body>
           <h1>Insufficient Gratitude<br></br>Compensator Generator</h1>
