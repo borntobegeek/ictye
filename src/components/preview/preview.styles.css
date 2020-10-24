@@ -1,0 +1,24 @@
+.preview {
+  background-color: white;
+  color: rgba(69, 69, 69, 1);
+  font-size: calc(10px + 1.8vmin);
+  text-align: start;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding: 1em;
+  margin: 1em;
+  max-width: 55.05ch;
+}
+
+.preview h2 {
+  /*margin-top: -0.1em;*/
+  margin: -1em -1em 1em -1em;
+  background-color: rgba(69, 69, 69, 1);
+  color: white;
+  padding: 0.2em 0.2em 0.2em 1em;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  font-size: calc(10px + 1.8vmin);
+}
