@@ -1,0 +1,2 @@
+echo "This email confirms that Postfix is working" | mail -s "Testing Posfix" -r thanks@icannotthankyouenough.com  91adambalogh@gmail.com
+echo "This email confirms that Postfix is working" | mail -s "Testing Posfix" -r thanks@icannotthankyouenough.com  adam@borntobegeek.me

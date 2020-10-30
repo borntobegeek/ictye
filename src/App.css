@@ -27,3 +27,9 @@ input[type="email"] {
   max-width: 300px;
   margin: 1em;
 }
+
+.recaptcha {
+  display: inherit;
+  width: 302px;
+  margin: auto;
+}

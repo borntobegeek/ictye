@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import {Preview} from './components/preview/preview.component'
+import ReCAPTCHA from "react-google-recaptcha"
 
 class App extends Component{
   constructor() {
@@ -55,6 +56,8 @@ class App extends Component{
               Number of Thank Yous:<br></br>
               <input type="number" name="thanks" min="1" max="365" step="1" required onChange={this.handleChange} />
             </label><br></br>
+
+            <ReCAPTCHA className="recaptcha" sitekey="6LeoptsZAAAAAKCF8zKRkLlGPsfEeUNOKLkvC1Og" /><br></br>
 
             <input type="submit" value="Submit" />
             </p>
