@@ -16,5 +16,3 @@ First I thought the site was real, but it turns out that it's just something he 
 I've had a busy month, plus I'm inexperienced in web development so only the React front-end is presentable so far. I also worked on backend stuff, trying to figure out the email-sending capability server-side and such, but those are very much works in progress.
 
 You can find a running version of the frontend at https://borntobegeek.me/ictye/.
-
-### Technologies Used
