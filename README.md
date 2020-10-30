@@ -12,6 +12,7 @@ The whole thing came from my former boss, who sent me the following email:
 
 First I thought the site was real, but it turns out that it's just something he came up with. I decided to make it a reality. The finished site will send 'Thank you' emails to the recipient for a number of days specified by the sender.
 
+![Screenshot](screenshot.png)
 
 ### Status of Project
 I've had a busy month, plus I'm inexperienced in web development so only the React front-end is presentable so far. I also worked on backend stuff, trying to figure out the email-sending capability server-side and such, but those are very much works in progress.
