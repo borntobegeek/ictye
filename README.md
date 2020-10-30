@@ -1,6 +1,7 @@
 ## I Cannot Thank You Enough
 
 
+
 ### The Idea
 The whole thing came from my former boss, who sent me the following email:
 > Magnificent!
